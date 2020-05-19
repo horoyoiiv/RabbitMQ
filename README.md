@@ -17,6 +17,8 @@
 
 ## [2 fanout type의 Exchange](/all/fanout.md)  
 
+## [3. Direct Type의 Exchange](/all/direct.md)  
+
 
 
 
