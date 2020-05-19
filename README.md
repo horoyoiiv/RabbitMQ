@@ -1,5 +1,24 @@
-# RabbitMQ
-Rabbit mqt
+# RabbitMQ  
+### [RabbitMQ 설명](https://github.com/gjchoi/gjchoi.github.io/blob/master/_posts/2016-02-27-rabbit-mq-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0.md)  
+
+
+
+## 2. Exchange Type  
+* RabbitMQ에서는 `Exchange Type`을 통하여, (브로커에 들어온 메세지를 메세지 큐에 저장할) **라우팅 방식**을 결정할 수 있다.  
+
+#### 2.1. Fanout  
+* 들어온 메세지를 `exchange`에 바인딩 된 큐에 모두 삽입한다.  
+
+
+
+## Tutorial  
+
+## [1. 하나의 큐에 여러 소비자](/tuto1.md)  
+
+
+
+
+
 
 ### Tutorial  
 
