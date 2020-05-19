@@ -13,8 +13,9 @@
 
 ## Tutorial  
 
-## [1. 하나의 큐에 여러 소비자](/tuto1.md)  
+## [1. 디폴트 Exchange 사용](/tuto1.md)  
 
+## [2 fanout type의 Exchange](/all/fanout.md)  
 
 
 
