@@ -15,9 +15,12 @@
 
 ## [1. 디폴트 Exchange 사용](/tuto1.md)  
 
-## [2 fanout type의 Exchange](/all/fanout.md)  
+## [2. fanout type의 Exchange](/all/fanout.md)  
 
 ## [3. Direct Type의 Exchange](/all/direct.md)  
+
+## [4. Topic Type의 Exchange](/all/topic.md)  
+
 
 
 
